@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @adegenius7
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning python 
+- 👀 I’m interested and passionate about software development 
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me +966564538993
+- 📫 How to reach me +1(825)967-9959
 
 <!---
 adegenius7/adegenius7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
